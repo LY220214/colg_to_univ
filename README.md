@@ -11,11 +11,11 @@
 <p align="center">
 2024年四川省理工农医类专升本
 <br />
-    <a> 数学 &nbsp </a>
-    ·
-    <a> &nbsp 英语 &nbsp </a>
-    ·
-    <a> &nbsp 计算机基础 </a>
+    <a href="./高等数学"> 数学 </a>
+    &nbsp · &nbsp 
+    <a href="./大学英语"> 英语 </a>
+    &nbsp · &nbsp
+    <a href="./计算机基础"> 计算机基础 </a>
 </p>
 <div style="border-bottom: 1px solid #4c4d4f;margin-top: 5px"/>
 
